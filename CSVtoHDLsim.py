@@ -1,5 +1,8 @@
 #!/usr/bin/python
 
+# CSVtoHDLsim.py by Marek Pikuła <marek a pikula d co>
+# Published under GNU GPLv3 license
+
 import argparse
 import csv
 
